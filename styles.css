@@ -1,0 +1,48 @@
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 20px;
+background-color: #f4f4f4;
+color: #333;
+line-height: 1.6;
+}
+
+header {
+background-color: white;
+padding: 20px;
+margin-bottom: 20px;
+}
+
+main {
+background-color: white;
+padding: 20px;
+max-width: 800px;
+margin: 0 auto;
+}
+
+h1 {
+font-size: 26px;
+color: #44CCAC;
+}
+
+h2 {
+font-size: 21px;
+color: #6060DD;
+}
+
+p {
+font-size: 16px;
+font-weight: 600;
+}
+
+img {
+max-width: 250px;
+height: auto;
+margin-bottom: 15px;
+}
+
+footer {
+text-align: center;
+margin-top: 20px;
+padding: 10px;
+}
